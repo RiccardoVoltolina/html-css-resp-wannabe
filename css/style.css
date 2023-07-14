@@ -171,6 +171,22 @@ img {
     .steps .col p {
         padding: 0 10px;
     }
+
+    .why-us {
+        margin: 0;
+        background-color: #222223;
+    }
+
+    .why-us h2 {
+        padding: 40px;
+    }
     
-   
- }
+    .why-us .col-left {
+        width: 90%;
+    }
+
+    .why-us .col-right {
+        padding: 56px;
+        width: 100%; 
+    }
+}
