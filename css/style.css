@@ -146,7 +146,7 @@ img {
     }
 
     .lessons .col {
-        padding-bottom: 30px;
+        padding: 30px;
         width: 80%;
     }
 
@@ -156,7 +156,7 @@ img {
     }
 
     h2 {
-        margin-bottom: 0;
+        margin-bottom: 30px;
     }
 
     .steps .col img {
@@ -164,15 +164,13 @@ img {
     }
 
     .steps .col {
-        padding: 30px;
+        padding: 30px 15px;
         width: 100%;
     }
 
-    .steps .col p {
-        padding: 0 10px;
-    }
 
     .why-us {
+        padding: 0 31px;
         margin: 0;
         background-color: #222223;
     }
@@ -190,3 +188,6 @@ img {
         width: 100%; 
     }
 }
+
+/* end 480px diplay */
+
