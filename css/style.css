@@ -191,3 +191,13 @@ img {
 
 /* end 480px diplay */
 
+@media screen and (max-width: 768px) {
+
+    .container {
+        width: 100%;
+        max-width: 768px;
+    }
+
+   
+}
+
