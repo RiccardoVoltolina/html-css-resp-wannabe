@@ -168,6 +168,10 @@ img {
         width: 100%;
     }
 
+    .steps p {
+        padding: 0 71px;
+    }
+
 
     .why-us {
         padding: 0 31px;
