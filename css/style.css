@@ -138,6 +138,7 @@ img {
     .container {
         width: 100%;
         margin: 0 auto;
+        padding: 0;
     }
     .row {
         flex-direction: column;
@@ -149,5 +150,27 @@ img {
         width: 80%;
     }
 
+    .steps {
+        margin: 0rem 0;
+        padding: 2rem 0;       
+    }
+
+    h2 {
+        margin-bottom: 0;
+    }
+
+    .steps .col img {
+        margin-bottom: 0;
+    }
+
+    .steps .col {
+        padding: 30px;
+        width: 100%;
+    }
+
+    .steps .col p {
+        padding: 0 10px;
+    }
+    
    
  }
